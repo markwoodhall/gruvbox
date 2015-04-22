@@ -859,6 +859,8 @@ call s:HL('clojureUnquote', 'yellow')
 
 call s:HL('cOperator', 'purple')
 call s:HL('cStructure', 'orange')
+call s:HL('csModifier', 'red')
+call s:HL('csPublicModifier', 'green')
 
 " }}}
 " Python: {{{
