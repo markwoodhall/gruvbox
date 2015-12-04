@@ -911,7 +911,7 @@ hi! link clojureUnquote GruvboxYellow
 hi! link cOperator GruvboxPurple
 hi! link cStructure GruvboxOrange
 hi! link csModifier GruvboxRed
-hi! link csPlublicModifier GruvboxGreen
+hi! link csPublicModifier GruvboxGreen
 hi! link csTypeDecleration GruvboxGreen
 
 " }}}
