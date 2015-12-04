@@ -861,6 +861,7 @@ call s:HL('cOperator', 'purple')
 call s:HL('cStructure', 'orange')
 call s:HL('csModifier', 'red')
 call s:HL('csPublicModifier', 'green')
+call s:HL('csTypeDecleration', 'green')
 
 " }}}
 " Python: {{{
