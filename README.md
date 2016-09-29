@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgrush.com/h0EfiWAdb4Ke.svg"></p>
+<p align="center"><img src="http://imgh.us/gruvbox_logo.svg"></p>
 
 gruvbox is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
 
@@ -93,7 +93,7 @@ See [gruvbox-contrib][] repo for contributions, ports and extras.
 ToDo
 ----
 
-* Filetype syntax highlighting (R, TeX, Swift, Erlang and I'm still dissatisfied with CSS)
+* Filetype syntax highlighting (R, TeX, Swift, Erlang, Purescript and I'm still dissatisfied with CSS)
 * Plugin support (MiniBufExplorer, Tagbar, Netrw, VimPLug)
 
 Self-Promotion
